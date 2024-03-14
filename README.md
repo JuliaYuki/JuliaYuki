@@ -2,11 +2,11 @@
 
 - 💻 Cursando Análise e Desenvolvimento de Sistemas/ Floripa Mais Tec (FuturoDev)
 - 📖 Estudando PostgreSQL/Express/React
-- 👾 Hobbies: Assistir séries/animes/filmes e jogar games🎮.
+- 👾 Hobbies: Assistir séries/animes/filmes e jogar games🎮
 
 
 
- ![Julia GitHub stats](https://github-readme-stats.vercel.app/api?username=JuliaYuki&show_icons=true&theme=tokyonight)
+ </br>![Julia GitHub stats](https://github-readme-stats.vercel.app/api?username=JuliaYuki&show_icons=true&theme=tokyonight)
 
 ### Tecnologias usadas no dia a dia
 <div style="display: inline_block"><br>
