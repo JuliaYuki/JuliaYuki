@@ -2,7 +2,7 @@
 
 - 💻 Cursando Análise e Desenvolvimento de Sistemas/ Floripa Mais Tec (FuturoDev)
 - 📖 Estudando PostgreSQL/Express/React
-- 👾 Hobbies: Assistir séries/animes/filmes e jogar games🎮
+- 👾 Hobbies: Assistir séries/animes/filmes, pegar uma praia🏖️ e jogar games🎮
 
 
 
