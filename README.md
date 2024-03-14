@@ -18,7 +18,7 @@
   <img align="center" alt="javascript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
   <img align="center" alt="react" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   <img align="center" alt="node.js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
-  <img align="right" alt="julia-gif" height="180" width="180" src="https://cdn.discordapp.com/attachments/559979439258075147/1217956398575517796/ezgif.com-crop_1.gif?ex=6605e949&is=65f37449&hm=f17105fc051fac33e1bb810274a8ef5aeb75c008187b6af3f0ce93f42f37de68&" />
+  <img align="right" alt="julia-gif" height="180" width="180" src="https://cdn.discordapp.com/attachments/559979439258075147/1217956398575517796/ezgif.com-crop_1.gif?ex=6605e949&is=65f37449&hm=f17105fc051fac33e1bb810274a8ef5aeb75c008187b6af3f0ce93f42f37de68&" /></br></br></br></br>
   
 </div>
 
