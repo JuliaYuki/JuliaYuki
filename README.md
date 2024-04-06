@@ -1,7 +1,7 @@
 ### Hello there 🖖 Me chamo Julia 
 
 - 💻 Cursando Análise e Desenvolvimento de Sistemas/ Floripa Mais Tec (FuturoDev)
-- 📖 Estudando PostgreSQL/Express/React
+- 📖 Estudando PostgreSQL/Node.Js/React
 - 👾 Hobbies: Assistir séries/animes/filmes, pegar uma praia🏖️ e jogar games🎮
 
 
