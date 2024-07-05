@@ -15,7 +15,7 @@
   <img align="center" alt="javascript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
   <img align="center" alt="react" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   <img align="center" alt="node.js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
-  <img align="right" alt="julia-gif" height="180" width="180" src="https://cdn.discordapp.com/attachments/1228421331930845195/1228458027427037224/ezgif.com-crop_1.gif?ex=662c1db1&is=6619a8b1&hm=2a1b4a8294246c8bd9c118a81ca45667c716d7aa9353d4e027f916e0f42c4238&" />
+  <img align="right" alt="julia-gif" height="180" width="180" src="https://www.icegif.com/wp-content/uploads/2024/01/icegif-697.gif" />
   
 </div>
 
