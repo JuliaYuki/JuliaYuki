@@ -1,7 +1,7 @@
 ### Hello there 🖖 Me chamo Julia 
 
 - 💻 Cursando Análise e Desenvolvimento de Sistemas/ Floripa Mais Tec (FuturoDev)
-- 🤖 Conhecimento em IA Generativa 
+- 🤖 Conhecimento em IA Generativa e Agente de IA
 - 🔎 Procurando por ofertas de emprego
 - 📖 Estudando PostgreSQL/Node.Js/React
 - 👾 Hobbies: Assistir séries/animes/filmes, pegar uma praia🏖️ e jogar games🎮
