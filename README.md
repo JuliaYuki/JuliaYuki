@@ -17,7 +17,7 @@
   <img align="center" alt="javascript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
   <img align="center" alt="react" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   <img align="center" alt="node.js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
-  <img align="right" alt="julia-gif" height="180" width="180" src="https://www.icegif.com/wp-content/uploads/2024/01/icegif-697.gif" />
+  <img align="right" alt="julia-gif" height="180" width="180" src="https://media1.tenor.com/m/yefR-5Wp-bsAAAAd/dandadan-jin.gif" />
   
 </div>
 
