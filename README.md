@@ -1,6 +1,6 @@
 ### Hello there 🖖 Me chamo Julia 
 
-- 💻 Cursando Análise e Desenvolvimento de Sistemas/ Floripa Mais Tec (FuturoDev)
+- 💻 Cursando Tecnologo Análise e Desenvolvimento de Sistemas/ Técnico Desenvolvimento Web (Senac Florianópolis)
 - 🤖 Conhecimento em IA Generativa e Agente de IA
 - 🔎 Procurando por ofertas de emprego
 - 📖 Estudando PostgreSQL/Node.Js/React
