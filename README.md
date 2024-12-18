@@ -2,8 +2,8 @@
 
 - 💻 Cursando Tecnologo Análise e Desenvolvimento de Sistemas/ Técnico Desenvolvimento Web (Senac Florianópolis)
 - 🤖 Conhecimento em IA Generativa e Agente de IA
-- 🔎 Procurando por ofertas de emprego
-- 📖 Estudando PostgreSQL/Node.Js/React
+- ⌨️ Trabalhando como Desenvolvedora Front-End Estágio no Senac/Florianópolis  
+- 📖 Estudando React/Typescript
 - 👾 Hobbies: Assistir séries/animes/filmes, pegar uma praia🏖️ e jogar games🎮
 
 
